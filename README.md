@@ -95,7 +95,7 @@ There are two types of files used in the `tf_visual_tools` package:
 * saved TFs
 * interactive marker menus
 
-### Saved TF file format
+### Saved TF file format:
 
 ```
 #ID FRAME_ID CHILD_FRAME_ID X Y Z ROLL PITCH YAW
